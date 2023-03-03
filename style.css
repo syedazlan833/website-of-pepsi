@@ -1,0 +1,47 @@
+.firstimageofheader{
+    width: 110px;
+    margin: 0px 0px 0px 0px;
+    border: 2px solid  rgb(30, 102, 173)!important;
+}
+.dropdown-toggle{
+    font-size: 14px;
+    font-weight: bold;
+    margin-left: 20px;
+    color: white !important;
+}
+.nev{
+    font-size: 14px;
+    font-weight: bold;
+    margin-left: 25px;
+}
+.navbar{
+    background-color: rgb(30, 102, 173) !important;
+}
+.nav-link{
+    color: white !important;
+}
+.lg-button{
+    width: 210px !important;
+    padding: 2px !important;
+    font-size: 14px !important;
+    font-weight: bold;
+    background-color: transparent !important;
+    border: 2px solid white;
+    border-radius: 20px;
+    margin-left: 400px;
+}
+.lg-button:hover{
+    width: 210px !important;
+    padding: 2px !important;
+    font-size: 14px !important;
+    font-weight: bold;
+    background-color: white !important;
+    border: 2px solid white;
+    color:  rgb(30, 102, 173) !important;
+    border-radius: 20px;
+    margin-left: 400px;
+}
+.bodyimgone{
+    position: relative;
+    width: 100%;
+}
